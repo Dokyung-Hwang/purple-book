@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: purple-book
+
+  jpa:
+    open-in-view: false
+
+  thymeleaf:
+    check-template-location: true
